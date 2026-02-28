@@ -41,7 +41,7 @@ Valiéndose de IA, a partir de un `.csv` obtener una hoja de firmas `.pdf` (Pyth
 - Poner el código bajo control de versiones
 - Publicar el código
 
-⏱️ **Tiempo empleado: 2 min** — Lo que tardó la IA en generar el código, verificarlo y publicarlo.
+⏱️ **Tiempo empleado: 2 min + otros 10 mins** — Lo que tardó la IA en generar el código, verificarlo y publicarlo, y posteriormente corregir el formato del pdf.
 
 ---
 
